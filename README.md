@@ -9,7 +9,7 @@
         </h4>
     <p align = "justify">Um problema muito grave que muitas pessoas podem presenciar hoje em dia é a falta de acessibilidade em páginas web, onde de acordo com pesquisas, cerca de 1% de todas os sites passam por todos os testes de acessibilidade.</p>
     <p align = "justify">Assim este projeto nasceu com o objetivo de ajudar os desenvolvedores web a implementar a acessibilidade em seus códigos e relatar dos problemas que a falta de acessibilidade em páginas web traz para uma parcela da população.</p>
-    <p> Link para o site: https://renanmour4.github.io/Acesso-Facil/</p>
+    <p> Link para o site: <a href="https://renanmour4.github.io/Acesso-Facil/" target="_blank" rel="noopener noreferrer"> https://renanmour4.github.io/Acesso-Facil/</a></p>
 
 
 <h2>✔️ Padrões e tecnologias utilizadas</h2>
