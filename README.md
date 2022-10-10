@@ -7,7 +7,7 @@
     <p align = "justify">Um problema muito grave que muitas pessoas podem presenciar hoje em dia é a falta de acessibilidade em páginas web, onde de acordo com pesquisas, cerca de 1% de todas os sites passam por todos os testes de acessibilidade.</p>
     <p align = "justify">Assim este projeto nasceu com o objetivo de ajudar os desenvolvedores web a implementar a acessibilidade em seus códigos e relatar dos problemas que a falta de acessibilidade em páginas web traz para uma parcela da população.</p>
 
-<h4 align="center">
+<h4 align="center" font-size = 20px;>
         :construction: Projeto em construção :construction:
  </h4>
 
@@ -18,8 +18,8 @@
 - ``W3C``
 - ``eMAG``
 
-
-# Autores
+================
+<h2> Autores </h2>
 
 | [<img src="https://avatars.githubusercontent.com/u/64485870?s=96&v=4" width=115><br><sub>Renan Bruno Moura</sub>](https://github.com/RenanMour4) | [<img src="https://avatars.githubusercontent.com/u/64711434?v=4" width=115><br><sub>João Vitor Brandão</sub>](https://github.com/joao0902)  |
 | :---: | :---: |
