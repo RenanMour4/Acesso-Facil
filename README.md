@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-        <a href="https://unform.dev" rel="nofollow">
+        <a href="https://renanmour4.github.io/Acesso-Facil/" rel="nofollow">
           <img src="assets/logo%20acesso%20facil%20padrao.png" alt="Logo de nosso projeto. Tem um fundo arredondado e laranja com uma pessoa de braços abertos no meio. Clicando nesta imagem você irá para o site: Acesso Fácil" height="150" width="150" style="max-width: 100%;">
         </a>
     </p>
@@ -9,9 +9,10 @@
         </h4>
     <p align = "justify">Um problema muito grave que muitas pessoas podem presenciar hoje em dia é a falta de acessibilidade em páginas web, onde de acordo com pesquisas, cerca de 1% de todas os sites passam por todos os testes de acessibilidade.</p>
     <p align = "justify">Assim este projeto nasceu com o objetivo de ajudar os desenvolvedores web a implementar a acessibilidade em seus códigos e relatar dos problemas que a falta de acessibilidade em páginas web traz para uma parcela da população.</p>
+    <p> Link para o site: https://renanmour4.github.io/Acesso-Facil/</p>
 
 
-<h2 align="center">✔️ Padrões e tecnologias utilizadas</h2>
+<h2>✔️ Padrões e tecnologias utilizadas</h2>
 
 - ``HTML 5, CSS e JavaScript``
 - ``WCAG``
