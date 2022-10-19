@@ -11135,7 +11135,7 @@ header.masthead:before {
   right: 0;
   bottom: 0;
   background-color: #212529;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 header.masthead .page-heading,
 header.masthead .post-heading,
@@ -11245,4 +11245,10 @@ header.masthead .site-heading .h1 {
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
+}
+
+/* meu estilo */
+
+.lista li{
+  font-family: var(--bs-body-font-family);
 }

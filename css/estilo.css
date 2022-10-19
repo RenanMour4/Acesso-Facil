@@ -1,3 +1,22 @@
 .logo {
     padding-left: 20px;
 }
+
+.lista{
+    list-style: none;
+    padding: 0px;
+    
+}
+.lista li::before{
+    content: "→"; 
+    padding-right: 2%;
+}
+.lista li{
+    font-size: 1.25rem;
+    margin: 2em 0;
+    
+}
+
+.bg-image{
+    background-image: url("assets/img/deficiencias2.jpg");
+}
