@@ -11104,7 +11104,7 @@ blockquote {
     color: #212529;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-    color: #0085A1;
+    color: black;
   }
   #mainNav.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -11204,7 +11204,7 @@ header.masthead .site-heading .h1 {
 .section-heading {
   font-size: 2.25rem;
   font-weight: 700;
-  margin-top: 3.75rem;
+  margin-top: 2.2rem;
 }
 
 .caption {

@@ -20,3 +20,8 @@
 .bg-image{
     background-image: url("assets/img/deficiencias2.jpg");
 }
+
+.centro{
+    margin-right: 50%;
+    margin-left: 50%;
+}
