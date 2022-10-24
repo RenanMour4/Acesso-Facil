@@ -11098,7 +11098,7 @@ blockquote {
     color: #212529;
   }
   #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
-    color: #0085A1;
+    color: black;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a {
     color: #212529;
