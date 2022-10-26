@@ -17,12 +17,7 @@
         <link href="css/estilo.css" rel="stylesheet" />
     </head>
     <body>
-        <div vw class="enabled">
-            <div vw-access-button class="active"></div>
-            <div vw-plugin-wrapper>
-              <div class="vw-plugin-top-wrapper"></div>
-            </div>
-        </div>
+        
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
             <div class="container px-4 px-lg-5">
@@ -64,7 +59,7 @@
         <article class="mb-4">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-md-10 col-lg-8 col-xl-8">
+                    <div class="col-md-10 col-lg-8 col-xl-9">
                         <h2 class="section-heading">A acessibilidade e seus benefícios</h2>
 
 
@@ -139,9 +134,13 @@
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
 
+        <div vw class="enabled">
+            <div vw-access-button class="active"></div>
+            <div vw-plugin-wrapper>
+              <div class="vw-plugin-top-wrapper"></div>
+            </div>
+        </div>
         <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
-        <script>
-            new window.VLibras.Widget('https://vlibras.gov.br/app');
-        </script>
+    <script>    new window.VLibras.Widget('https://vlibras.gov.br/app');</script>
     </body>
 </html>
