@@ -25,3 +25,17 @@
     margin-right: 50%;
     margin-left: 50%;
 }
+
+
+
+.divisao{
+    opacity: 80% ;
+    background-color: #f67828;
+    width: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.ajust-hr-f{
+    margin-top: 2.2rem;
+}

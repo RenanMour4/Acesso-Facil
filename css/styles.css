@@ -6564,7 +6564,8 @@ textarea.form-control-lg {
 }
 
 .border-top {
-  border-top: 1px solid #dee2e6 !important;
+  border-top: 1px solid #f67828 !important;
+  
 }
 
 .border-top-0 {
@@ -10997,7 +10998,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  font-size: 1.25rem;
+  font-size: 1.50rem;
 }
 
 hr {
@@ -11113,8 +11114,8 @@ blockquote {
 }
 
 footer {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 header.masthead {
@@ -11221,7 +11222,8 @@ header.masthead .site-heading .h1 {
 }
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
-  color: #0085A1;
+  color: #f67828;
+  transition: color .7s;
 }
 .post-preview > a > .post-title {
   font-size: 1.875rem;
@@ -11229,8 +11231,9 @@ header.masthead .site-heading .h1 {
   margin-bottom: 0.625rem;
 }
 .post-preview > a > .post-subtitle {
-  font-weight: 300;
+  font-weight: 500;
   margin-bottom: 0.625rem;
+  font-size: 1.5rem;
 }
 .post-preview > .post-meta {
   font-size: 1.125rem;
