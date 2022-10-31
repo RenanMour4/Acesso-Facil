@@ -2,6 +2,7 @@
     padding-left: 20px;
 }
 
+
 .lista{
     list-style: none;
     padding: 0px;
@@ -38,4 +39,27 @@
 
 .ajust-hr-f{
     margin-top: 2.2rem;
+}
+.bg-meu-h{
+    
+    background: url('../assets/img/deficiencias2.jpg') no-repeat center center !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+    
+}
+.bg-meu-a{
+    
+    background: url('../assets/img/about-bg.jpg') no-repeat center center !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+}
+.bg-meu-p{
+    background: url('../assets/img/deficiencias3.jpg') no-repeat center center !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+}
+.bg-meu-c{
+    background: url('../assets/img/contact-bg.jpg') no-repeat center center !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
 }
