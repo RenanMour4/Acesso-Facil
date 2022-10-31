@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://renanmour4.github.io/Acesso-Facil/</title>
+  <link>https://renanmour4.github.io/Acesso-Facil/</link>
+
+<item>
+     <link>https://renanmour4.github.io/Acesso-Facil/</link>
+     <title>Acesso Fácil</title>
+     <description>Acesso Fácil</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://renanmour4.github.io/Acesso-Facil/index.html</link>
+     <title>Acesso Fácil</title>
+     <description>Acesso Fácil</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://renanmour4.github.io/Acesso-Facil/about.html</link>
+     <title>Acesso Fácil</title>
+     <description>Acesso Fácil</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://renanmour4.github.io/Acesso-Facil/post.html</link>
+     <title>Acesso Fácil</title>
+     <description>Acesso Fácil</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://renanmour4.github.io/Acesso-Facil/contact.html</link>
+     <title>Acesso Fácil</title>
+     <description>Acesso Fácil</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
