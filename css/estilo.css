@@ -66,3 +66,27 @@
     background-size: cover !important;
     background-attachment: scroll !important;
 }
+/*BUSCA RÁPIDA*/
+form {
+    border: 1px solid whitesmoke;
+    border-radius: 0.1em;
+    padding: 0.1em;
+}
+
+form input, form button {
+    font-size: 1.0em;
+    border-radius: 0.1em;
+    border: none;
+    padding: 0.2em;
+}
+
+form button {
+    cursor: pointer;
+    background: none;
+    color: whitesmoke; 
+}
+
+form button:hover {
+    background-color: whitesmoke;
+    color: #f67828;
+}

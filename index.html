@@ -15,6 +15,7 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
         <link href="css/estilo.css" rel="stylesheet" />
+        <script src="https://kit.fontawesome.com/le592b5726.js" crossorigin="anonymous"></script>
     </head>
     <body>
         
@@ -30,9 +31,13 @@
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <form action="index.html" method="post">
+                        <input type="text" name="search" id="search" placeholder="Busca Rápida" required>
+                        <button type="submit"><i class="fas fa-search"></i></button>
+                    </form>
                     <ul class="navbar-nav ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Sobre</a></li>
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="about.html">Deficiência</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="about.html">Deficiências</a></li>
                         <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="post.html">Acessibilidade</a></li>
                         <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">Contato</a></li>
                     </ul>
@@ -58,6 +63,11 @@
             <div class="row gx-4 gx-lg-5 justify-content-center">
                 <div class="col-md-10 col-lg-8 col-xl-9">
                     <h2 class="section-heading text-center">Sobre o Projeto</h2>
+
+                    <audio class="rounded mx-auto d-block espaco" controls>
+                        <source src="./assets/audio/sobre.mp3">
+                    </audio>
+
                     <p>Um problema muito grave que milhares de pessoas sofrem diariamente é a falta de acessibilidade, seja ela digital ou física. Na internet muitas pessoas encontram barreiras de acessibilidade que impossibilitam elas de navegarem, como em páginas web que não possuem o mínimo de acessibilidade. Um reflexo disso é que cerca de 1% de todos os sites do Brasil estão acessíveis para a maior parte do público.</p>
                     <p>Com isso o projeto Acesso Fácil tem como objetivo mostrar que é possível englobar todos os usuários, de uma forma onde todos tenham uma ótima experiência ao navegar independentemente de suas necessidades por meio da acessibilidade digital.</p>
                     <img class = "rounded mx-auto d-block img-fluid" src="assets/img/familia.png" alt="Imagem inclusiva onde apresenta 10 pessoas, entre elas 5 crianças e 5 adultos e cada um com suas características. A imagem é preta com fundo branco.">
