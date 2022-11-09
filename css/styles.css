@@ -89,11 +89,45 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   transition: background 0.2s linear;
 }
-
+/* dark mode */
 body.dark {
   background: #292c35;
-  color: #fafada
+  color: #fafada;
 }
+body.dark a {
+  color: #fafada;
+}
+body.dark img.pd-troca{
+  filter: invert(100%);
+}
+body.dark .texto-b{
+  color: #fafada !important;
+}
+
+@media (max-width: 992px) {
+  body.dark #mainNav{
+    background-color: #292c35 ;
+  }
+  body.dark .texto-bp{
+    color: #fafada !important;
+  }
+}
+
+@media (min-width: 992px){
+  body.dark #mainNav.is-fixed{
+    background-color: #292c35;
+  }
+  body.dark #mainNav.is-fixed .navbar-brand{
+    color: #fafada;
+  }
+
+  body.dark #mainNav.is-fixed ul li a{
+    color: #fafada !important;
+  }
+}
+
+
+/* end dark mode */
 
 .checkbox {
   opacity: 0;
