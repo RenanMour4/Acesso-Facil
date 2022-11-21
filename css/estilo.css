@@ -67,7 +67,7 @@
     background-attachment: scroll !important;
 }
 /*BUSCA RÁPIDA*/
-form {
+/* form {
     border: 1px solid whitesmoke;
     border-radius: 0.1em;
     padding: 0.1em;
@@ -89,5 +89,6 @@ form button {
 form button:hover {
     background-color: whitesmoke;
     color: #f67828;
-}
+} */
+
 
